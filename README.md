@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Compiler**
 
-- 👨‍💻 My school **East China Normal University**
+- 👨‍💻 My school is **East China Normal University**
 
 - 💬 Ask me about **GPU Compiler**
 
