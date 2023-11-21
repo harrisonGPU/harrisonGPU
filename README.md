@@ -8,6 +8,8 @@
 
 - 🤝 I’m looking for help with **Compiler**
 
+- 👨‍💻 My school **East China Normal University**
+
 - 💬 Ask me about **GPU Compiler**
 
 - 📫 How to reach me **tsworld1314@gmail.com**
