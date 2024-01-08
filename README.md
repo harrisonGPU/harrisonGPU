@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrison&label=Profile%20views&color=0e75b6&style=flat" alt="harrison" /> </p>
 
-- 🌱 I’m currently learning **Compiler,MLIR,LLVM,GPU**
+- 🌱 I‘m a student. I’m currently learning **Compiler,MLIR,LLVM,GPU**
 
 - 🤝 I’m looking for help with **Compiler**
 
