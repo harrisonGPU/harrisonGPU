@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrison&label=Profile%20views&color=0e75b6&style=flat" alt="harrison" /> </p>
 
-- 🌱 I’m currently learning **Compiler,MLIR,LLVM,GPU**
+🎓 I'm a graduate student at East China Normal University.
 
-- 🤝 I’m looking for help with **Compiler**
+🌱 I'm currently an intern on the AMD GPU compiler team.
 
-- 👨‍💻 My school is **East China Normal University**
+💬 Feel free to ask me about anything you like!
 
-- 💬 Ask me about **GPU Compiler**
+💙 I’m passionate about compiler development, especially LLVM, MLIR, and GPU compilers. I contribute to LLVM because I love it, I enjoy it, and I want to make the compiler world a bit better.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
