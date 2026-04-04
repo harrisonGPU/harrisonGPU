@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrison&label=Profile%20views&color=0e75b6&style=flat" alt="harrison" /> </p>
 
-🎓 I'm a graduate student at East China Normal University.
+🌱 I'm a software engineer working on the AMD GPU compiler.
 
-🌱 I'm currently an intern on the AMD GPU compiler team.
+🎓 I'm a graduate student at East China Normal University.
 
 💬 Feel free to ask me about anything you like!
 
