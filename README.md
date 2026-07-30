@@ -10,7 +10,7 @@
 
 💬 Feel free to ask me about anything you like!
 
-💙 I’m passionate about compiler development, especially LLVM, MLIR, and GPU compilers. I contribute to LLVM because I love it, I enjoy it, and I want to make the compiler world a bit better.
+💙 I’m passionate about compiler development, especially LLVM, MLIR, and GPU compilers. I contribute to LLVM because I enjoy it, and I want to make the compiler world a bit better.
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
