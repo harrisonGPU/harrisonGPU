@@ -1,8 +1,8 @@
-[![MasterHead](https://cdn.hswstatic.com/gif/starship.jpg)](https:harrison.io)
+[![MasterHead](https://cdn.hswstatic.com/gif/starship.jpg)](https://github.com/harrisonGPU)
 <h1 align="center">Hi 👋, I'm Harrison</h1>
-<h3 align="center">A passionate developer in Compiler</h3>
+<h3 align="center">A passionate compiler developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrison&label=Profile%20views&color=0e75b6&style=flat" alt="harrison" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrisonGPU&label=Profile%20views&color=0e75b6&style=flat" alt="harrisonGPU" /> </p>
 
 🌱 I'm a software engineer working on the AMD GPU compiler.
 
@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
 	<tr>
-        <td align="center"><a href="https://llvm.org/" target="_blank" rel="noreferrer"><img src="./icons/LLVM.svg" alt="llvm" width="40" height="40"/></a></td>
+		<td align="center"><a href="https://llvm.org/" target="_blank" rel="noreferrer"><img src="./icons/LLVM.svg" alt="llvm" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
