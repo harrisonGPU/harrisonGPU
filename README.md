@@ -17,7 +17,6 @@
 		<td align="center"><a href="https://www.khronos.org/spirv/" target="_blank" rel="noreferrer"><img src="./icons/spirv.svg" alt="spir-v" width="82" height="28"/></a></td>
 		<td align="center"><a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="./icons/vulkan.svg" alt="vulkan" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="./icons/opengl.svg" alt="opengl" width="40" height="40"/></a></td>
-		<td align="center"><a href="https://www.khronos.org/" target="_blank" rel="noreferrer"><img src="./icons/khronos.svg" alt="khronos" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="./icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="./icons/python.svg" alt="python" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="./icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a></td>
