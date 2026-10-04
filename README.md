@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harrison</h1>
 <h3 align="center">A passionate compiler developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrisonGPU&label=Profile%20views&color=0e75b6&style=flat" alt="harrisonGPU" /> </p>
+<p align="left"> <img src="https://api.visitorbadge.io/api/visitors?path=harrisonGPU&label=PROFILE%20VIEWS&labelColor=%23161b22&countColor=%2300d4ff&style=for-the-badge" alt="Profile views" /> </p>
 
 🌱 I'm a software engineer working on the AMD GPU compiler.
 
