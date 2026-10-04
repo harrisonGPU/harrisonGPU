@@ -14,7 +14,7 @@
 <table>
 	<tr>
 		<td align="center"><a href="https://llvm.org/" target="_blank" rel="noreferrer"><img src="./icons/LLVM.svg" alt="llvm" width="40" height="40"/></a></td>
-		<td align="center"><a href="https://www.khronos.org/spirv/" target="_blank" rel="noreferrer"><img src="./icons/spirv.svg" alt="spir-v" width="120" height="40"/></a></td>
+		<td align="center"><a href="https://www.khronos.org/spirv/" target="_blank" rel="noreferrer"><img src="./icons/spirv.svg" alt="spir-v" width="82" height="28"/></a></td>
 		<td align="center"><a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="./icons/vulkan.svg" alt="vulkan" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="./icons/opengl.svg" alt="opengl" width="40" height="40"/></a></td>
 		<td align="center"><a href="https://www.khronos.org/" target="_blank" rel="noreferrer"><img src="./icons/khronos.svg" alt="khronos" width="40" height="40"/></a></td>
