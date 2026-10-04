@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.hswstatic.com/gif/starship.jpg)](https://github.com/harrisonGPU)
 <h1 align="center">Hi 👋, I'm Harrison</h1>
-<h3 align="center"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=harrisonGPU&label=profile%20views&labelColor=%23161b22&countColor=%23a855f7&style=flat-square&labelStyle=lower" alt="Profile views" height="18" />A passionate compiler developer</h3>
+<h3 align="center"><img align="left" src="./icons/blank.svg" alt="" width="92" height="18" /><img align="right" src="https://api.visitorbadge.io/api/visitors?path=harrisonGPU&label=profile%20views&labelColor=%23161b22&countColor=%23a855f7&style=flat-square&labelStyle=lower" alt="Profile views" height="18" />A passionate compiler developer</h3>
 
 🌱 I'm a software engineer working on the AMD GPU compiler.
 
